@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm **Bhupesh Verma** (he/him)  
+A passionate open-source enthusiast and developer with a love for C++ and frontend technologies!
 
-<!--
-**bv29/bv29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 My Projects  
+- **[C++ Masterclass Source Code](https://github.com/bv29/The-C-20-Masterclass-Source-Code)**  
+  A repository for Udemy's C++ course.
 
-Here are some ideas to get you started:
+- **[Frontend Notes](https://github.com/bv29/Frontend-Notes)**  
+  My personal treasure trove of tips, tools, and notes for frontend developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Learning  
+C++ Advanced Concepts | Frontend Frameworks | Open-source contribution
+
+## 🔗 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/bhupesh-verma-684991198)  
+- 📧 [Email](mailto:bhupeshv29@gmail.com)
