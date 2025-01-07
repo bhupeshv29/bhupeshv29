@@ -25,10 +25,17 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
 
-<h2>📈 GitHub Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bv29&show_icons=true&locale=en&theme=dark" alt="bv29" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bv29&theme=dark" alt="bv29" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bv29&show_icons=true&locale=en&layout=compact&theme=dark" alt="bv29" /></p>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrancodex&show_icons=true&theme=radical" alt="kamrancodex-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrancodex&theme=radical" alt="kamrancodex-streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrancodex&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
 
 <h2>⚡️ Where to find me</h2>
 <p>
