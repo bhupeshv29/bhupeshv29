@@ -1,6 +1,6 @@
 <h1>Hi there! 👋 I’m Bhupesh Verma</h1>
 <p>I am a full-stack developer, open-source contributor, and competitive programmer. I love doing CP and working on open-source projects across various technologies!</p>
-![Profile Views](https://komarev.com/ghpvc/?username=bv29&color=blue)
+<p>![Profile Views](https://komarev.com/ghpvc/?username=bv29&color=blue)</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
