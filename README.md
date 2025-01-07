@@ -28,4 +28,3 @@
 <a target="_blank" href="mailto:bhupeshverma29bv@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/email-contact?style=for-the-badge&logo=gmail&logoColor=white&color=%23D44638" alt="email" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bv29&" alt="bv29" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bv29&show_icons=true&locale=en&layout=compact" alt="bv29" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bv29" alt="bv29" /></a></p>
