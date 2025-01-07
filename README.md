@@ -28,9 +28,9 @@
 </p>
 
 <h2>📈 GitHub Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bv29&show_icons=true&locale=en" alt="bv29" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bv29&" alt="bv29" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bv29&show_icons=true&locale=en&layout=compact" alt="bv29" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bv29&show_icons=true&locale=en&theme=dark" alt="bv29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bv29&theme=dark" alt="bv29" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bv29&show_icons=true&locale=en&layout=compact&theme=dark" alt="bv29" /></p>
 
 <h2>⚡️ Where to find me</h2>
 <p>
