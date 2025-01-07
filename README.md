@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bv29&show_icons=true&theme=radical" alt="kamrancodex-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bv29&theme=radical" alt="kamrancodex-streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bv29&theme=radical" alt="bv29" />
 </p>
 
 <p align="center">
