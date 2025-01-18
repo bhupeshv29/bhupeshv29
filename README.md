@@ -3,7 +3,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=bv29)
+![](https://komarev.com/ghpvc/?username=bhupeshv29)
 
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -31,16 +31,16 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bv29&show_icons=true&theme=radical" alt="kamrancodex-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bv29&theme=radical" alt="bv29" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhupeshv29&show_icons=true&theme=radical" alt="kamrancodex-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshv29&theme=radical" alt="bhupeshv29" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bv29&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshv29&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bv29&show_icons=true&locale=en&theme=dark" alt="bv29" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bv29&theme=dark" alt="bv29" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bv29&show_icons=true&locale=en&layout=compact&theme=dark" alt="bv29" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupeshv29&show_icons=true&locale=en&theme=dark" alt="bhupeshv29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshv29&theme=dark" alt="bhupeshv29" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupeshv29&show_icons=true&locale=en&layout=compact&theme=dark" alt="bhupeshv29" /></p> -->
 
 <h2>⚡️ Where to find me</h2>
 <p>
