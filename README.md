@@ -1,7 +1,7 @@
 <h1>Hi there! 👋 I’m Bhupesh Verma</h1>
 <p>I am a full-stack developer and open-source contributor. I love doing CP and working on open-source projects across various technologies!</p>
 
-📖 Currently learning **DevOps** & **GENERATIVE AI**  
+📖 Currently learning **DevOps** & **GENERATIVE-AI**  
 
 
 
