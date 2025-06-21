@@ -10,6 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+am+a+Full+Stack+Developer;I+build+modern+web+apps;I+love+learning+new+tech;Always+crafting+something+cool!" alt="Typing SVG" />
 </p>
 
+### 🧑‍💻 About Me
+
+> I’m Bhupesh — a passionate full-stack developer focused on delivering modern, scalable web solutions. I love to explore how **Generative AI** and cloud infrastructure can come together to build smarter systems. I believe in continuous learning, community contributions, and clean code.
+
+
 
 📖 Currently learning **DevOps** & **GENERATIVE-AI**  
 
