@@ -16,7 +16,30 @@
 
 
 
-📖 Currently learning **DevOps** & **GENERATIVE-AI**  
+### 📖 Currently Learning
+
+<p align="center">
+  <!-- Generative AI Focus -->
+  <img src="https://img.shields.io/badge/-Generative_AI-0f1419?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-0f1419?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangGraph-0f1419?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RAG_Pipelines-0f1419?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLM_Apps-0f1419?style=for-the-badge&logo=openai&logoColor=white" />
+ <img src="https://img.shields.io/badge/-AI_Agents-0f1419?style=for-the-badge&logo=fastapi&logoColor=white" />
+ 
+  <br/><br/>
+  <!-- DevOps Focus -->
+  <img src="https://img.shields.io/badge/-DevOps-0f1419?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-0f1419?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-0f1419?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-0f1419?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-0f1419?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI/CD_Pipelines-0f1419?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+
+
+
 
 
 
