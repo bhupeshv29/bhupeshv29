@@ -25,6 +25,13 @@
 </p>
 
 
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,js,ts,tailwind,mongodb,python" /><br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,vercel,aws,vscode,openai" />
+</p>
+
 
 <h2>📊 GitHub Stats</h2>
 
