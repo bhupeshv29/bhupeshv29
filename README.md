@@ -62,7 +62,7 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,vercel,aws,vscode,openai" />
 </p>
 
-
+<!--
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
