@@ -77,3 +77,18 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshv29&theme=dark" alt="bhupeshv29" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupeshv29&show_icons=true&locale=en&layout=compact&theme=dark" alt="bhupeshv29" /></p> -->
 
+
+
+<h2 align="center">📊 GitHub Stats & Insights</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshv29&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshv29&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="200"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupeshv29&theme=dracula&hide_border=true&bg_color=0f1419&area=true&color=40C4FF&line=F75C7E" alt="GitHub Activity Graph"/>
+</p>
