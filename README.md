@@ -1,5 +1,15 @@
-<h1>Hi there! 👋 I’m Bhupesh Verma</h1>
-<p>I am a full-stack developer and open-source contributor. I love doing CP and working on open-source projects across various technologies!</p>
+<h1 align="center">
+  Hi there! 👋 I'm Bhupesh Verma
+</h1>
+
+<h3 align="center">
+  🚀 Full-Stack Developer | 💻 Tech Enthusiast | ☕ Coffee Lover
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+am+a+Full+Stack+Developer;I+build+modern+web+apps;I+love+learning+new+tech;Always+crafting+something+cool!" alt="Typing SVG" />
+</p>
+
 
 📖 Currently learning **DevOps** & **GENERATIVE-AI**  
 
