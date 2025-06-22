@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-LLM_Apps-0f1419?style=for-the-badge&logo=openai&logoColor=white" />
  <img src="https://img.shields.io/badge/-AI_Agents-0f1419?style=for-the-badge&logo=fastapi&logoColor=white" />
  
-  <br/><br/>
+  <br/>
 <p align="center">
 
   <!-- DevOps Focus -->
