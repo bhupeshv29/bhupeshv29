@@ -89,6 +89,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshv29&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="200"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupeshv29&theme=dracula&hide_border=true&bg_color=0f1419&area=true&color=40C4FF&line=F75C7E" alt="GitHub Activity Graph"/>
-</p>
+</p> -->
