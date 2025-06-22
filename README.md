@@ -62,7 +62,7 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,vercel,aws,vscode,openai" />
 </p>
 
-<!--
+<!-- 
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshv29&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+</p> -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupeshv29&show_icons=true&locale=en&theme=dark" alt="bhupeshv29" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshv29&theme=dark" alt="bhupeshv29" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupeshv29&show_icons=true&locale=en&layout=compact&theme=dark" alt="bhupeshv29" /></p> -->
@@ -92,3 +92,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupeshv29&theme=dracula&hide_border=true&bg_color=0f1419&area=true&color=40C4FF&line=F75C7E" alt="GitHub Activity Graph"/>
 </p>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhupeshv29/bhupeshv29/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhupeshv29/bhupeshv29/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/bhupeshv29/bhupeshv29/output/github-snake.svg" />
+</picture>
