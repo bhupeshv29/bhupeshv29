@@ -16,16 +16,16 @@
 
 
 
-### 📖 Currently Learning
+<!-- ### 📖 Currently Learning
 
 <p align="center">
-  <!-- Generative AI Focus -->
+  <!-- Generative AI Focus 
   <img src="https://img.shields.io/badge/-Generative_AI-0f1419?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-LangChain-0f1419?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-LangGraph-0f1419?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/-RAG_Pipelines-0f1419?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-LLM_Apps-0f1419?style=for-the-badge&logo=openai&logoColor=white" />
- <img src="https://img.shields.io/badge/-AI_Agents-0f1419?style=for-the-badge&logo=fastapi&logoColor=white" />
+ <img src="https://img.shields.io/badge/-AI_Agents-0f1419?style=for-the-badge&logo=fastapi&logoColor=white" /> -->
  
   <br/>
 <p align="center">
