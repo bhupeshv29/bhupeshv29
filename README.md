@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🤖 Learning & Building with GenAI
+  🚀 Full-Stack Developer | 💻 Tech Enthusiast 
 </h3>
 
 <p align="center">
