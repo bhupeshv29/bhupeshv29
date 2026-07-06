@@ -58,8 +58,8 @@
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,js,ts,tailwind,mongodb,python" /><br />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,vercel,aws,vscode,openai" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,js,ts,tailwind,mongodb" /><br />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
 </p>
 
 <!-- 
