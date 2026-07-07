@@ -79,7 +79,7 @@
 
 
 
-<h2 align="center">📊 GitHub Stats & Insights</h2>
+<!-- <h2 align="center">📊 GitHub Stats & Insights</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" height="200"/>
@@ -88,7 +88,46 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshv29&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="200"/>
+</p> -->
+
+<!-- experimenting  with github insights -->
+
+
+
+<h2 align="center">📊 GitHub Stats & Insights</h2>
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhupeshv29&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhupeshv29&theme=tokyonight&utcOffset=5.5" />
+</p> -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=bhupeshv29&theme=tokyonight"
+    height="180"
+  />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupeshv29&theme=tokyonight" />
+</p>
+
+
+
+<!-- <p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhupeshv29&layout=compact&theme=tokyonight"
+    height="180"
+  />
+</p>
+ -->
+
+
+
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupeshv29&theme=dracula&hide_border=true&bg_color=0f1419&area=true&color=40C4FF&line=F75C7E" alt="GitHub Activity Graph"/>
 </p> -->
