@@ -1,143 +1,74 @@
-<h1 align="center">
-  Hi there! 👋 I'm Bhupesh Verma
-</h1>
+# Bhupesh Verma
 
-<h3 align="center">
-  🚀 Full-Stack Developer | 💻 Tech Enthusiast 
-</h3>
+**Full Stack Engineer** • Backend Systems • Infrastructure • Applied AI
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+am+a+Full+Stack+Developer;I+build+modern+web+apps;I+love+learning+new+tech;Always+crafting+something+cool!" alt="Typing SVG" />
-</p>
+Building production-grade software across the frontend, backend, infrastructure, and AI stack, with a focus on scalable systems, real-time applications, and developer tools.
 
-### 🧑‍💻 About Me
+---
 
-> I’m Bhupesh — a passionate full-stack developer focused on delivering modern, scalable web solutions. I love to explore how **Generative AI** and cloud infrastructure can come together to build smarter systems. I believe in continuous learning, community contributions, and clean code.
+## Featured Projects
 
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **[Perps Exchange Platform](https://github.com/bhupeshv29/Perps-Exchange-platform)** | Next.js · TypeScript · Express.js · PostgreSQL · Redis Streams · WebSockets · Docker | Production-grade perpetual futures trading platform with a real-time matching engine, isolated margin, leverage, liquidation engine, live order book, and sub-second WebSocket updates. |
+| **[BetterUptime](https://github.com/bhupeshv29/better-uptime)** | Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Docker | Website monitoring platform with scheduled health checks, incident tracking, status dashboards. |
+| **[Droply](https://github.com/bhupeshv29/droply)** | Next.js · TypeScript · Drizzle ORM · Clerk · ImageKit | Secure cloud file storage platform with authentication, media uploads, file organization, starring, trash management, and responsive dashboards. |
+| **[Sketchly](https://github.com/bhupeshv29/sketchly2.git)** | Next.js · TypeScript · WebSockets · Tailwind CSS | Collaborative whiteboard supporting multi-user drawing with real-time synchronization, customizable tools, and responsive UI. |
 
+---
 
-<!-- ### 📖 Currently Learning
+## Core Technologies
 
-<p align="center">
-  Generative AI Focus 
-  <img src="https://img.shields.io/badge/-Generative_AI-0f1419?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangChain-0f1419?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangGraph-0f1419?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RAG_Pipelines-0f1419?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LLM_Apps-0f1419?style=for-the-badge&logo=openai&logoColor=white" />
- <img src="https://img.shields.io/badge/-AI_Agents-0f1419?style=for-the-badge&logo=fastapi&logoColor=white" /> 
- 
-  <br/>
-<p align="center">
+| Domain | Technologies |
+|---------|--------------|
+| **Backend** |TypeScript · JavaScript ·  Node.js · Express.js · REST APIs · WebSockets 
+| **Frontend** | React.js · Next.js ·Tailwind CSS · HTML5 · CSS3 · shadcn/ui |
+| **Databases** | PostgreSQL · MongoDB · Redis · Prisma ORM · Mongoose  | 
+| **Infrastructure** | Docker · AWS EC2 · GitHub Actions · CI/CD |
+| **Authentication** | JWT · OAuth 2.0 · Clerk · Bcrypt |
+| **Currently Exploring** | Kubernetes · LangChain · LangGraph · RAG · AI Agents  |
 
-   DevOps Focus 
-  <img src="https://img.shields.io/badge/-DevOps-0f1419?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-0f1419?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-0f1419?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-0f1419?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-0f1419?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CI/CD_Pipelines-0f1419?style=for-the-badge&logo=git&logoColor=white" />
-</p>
--->
+---
 
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=bhupeshv29)
-
-<h2>⚡️ Where to find me</h2>
-<p>
-<a target="_blank" href="https://twitter.com/Bhupeshv29" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/bhupesh-verma-684991198" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="mailto:bhupeshverma29bv@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/email-contact?style=for-the-badge&logo=gmail&logoColor=white&color=%23D44638" alt="email" /></a>
-</p>
-
-
-### 🛠️ Tools & Technologies
+## GitHub Insights
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,js,ts,tailwind,mongodb" /><br />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
-</p>
 
-<!-- 
-<h2>📊 GitHub Stats</h2>
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight"
+height="180"
+/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhupeshv29&show_icons=true&theme=radical" alt="kamrancodex-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshv29&theme=radical" alt="bhupeshv29" />
+<img
+src="https://streak-stats.demolab.com?user=bhupeshv29&theme=tokyonight"
+height="180"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshv29&layout=compact&theme=radical" alt="Top Langs" />
-</p> -->
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupeshv29&show_icons=true&locale=en&theme=dark" alt="bhupeshv29" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshv29&theme=dark" alt="bhupeshv29" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupeshv29&show_icons=true&locale=en&layout=compact&theme=dark" alt="bhupeshv29" /></p> -->
 
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupeshv29&theme=tokyonight"
+/>
 
-
-<!-- <h2 align="center">📊 GitHub Stats & Insights</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshv29&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="200"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshv29&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="200"/>
-</p> -->
-
-<!-- experimenting  with github insights -->
-
-
-
-<h2 align="center">📊 GitHub Stats & Insights</h2>
-
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhupeshv29&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhupeshv29&theme=tokyonight&utcOffset=5.5" />
-</p> -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=bhupeshv29&theme=tokyonight"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupeshv29&theme=tokyonight" />
-</p>
-
-
-
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhupeshv29&layout=compact&theme=tokyonight"
-    height="180"
-  />
-</p>
- -->
-
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupeshv29&theme=dracula&hide_border=true&bg_color=0f1419&area=true&color=40C4FF&line=F75C7E" alt="GitHub Activity Graph"/>
-</p> -->
 
 <!--
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhupeshv29/bhupeshv29/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhupeshv29/bhupeshv29/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/bhupeshv29/bhupeshv29/output/github-snake.svg" />
-</picture>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupeshv29&theme=tokyo-night&hide_border=true"/>
+</p>
 -->
+
+---
+
+## Connect
+
+Email • **bhupeshverma29bv@gmail.com**
+
+Portfolio • **https://bhupeshverma.vercel.app/**
+
+X • **https://x.com/bhupeshv29**
+
+LinkedIn • **https://linkedin.com/in/bhupesh-verma-684991198**
+
