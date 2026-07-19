@@ -29,28 +29,19 @@ Building production-grade software across the frontend, backend, infrastructure,
 | **Currently Exploring** | Kubernetes · LangChain · LangGraph · RAG · AI Agents  |
 
 ---
-
 ## GitHub Insights
 
 <p align="center">
 
-<img
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight"
-height="180"
-/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight" />
 
-<img
-src="https://streak-stats.demolab.com?user=bhupeshv29&theme=tokyonight"
-height="180"
-/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=bhupeshv29&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupeshv29&theme=tokyonight"
-/>
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupeshv29&theme=tokyonight" />
 
 </p>
 
@@ -63,12 +54,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 ---
 
 ## Connect
-
-Email • **bhupeshverma29bv@gmail.com**
-
-Portfolio • **https://bhupeshverma.vercel.app/**
-
-X • **https://x.com/bhupeshv29**
-
-LinkedIn • **https://linkedin.com/in/bhupesh-verma-684991198**
+**Email** · <bhupeshverma29bv@gmail.com>  
+**Portfolio** · [bhupeshverma.vercel.app](https://bhupeshverma.vercel.app)  · **LinkedIn** · [bhupesh-verma-684991198](https://linkedin.com/in/bhupesh-verma-684991198) · **X** · [@bhupeshv29](https://x.com/bhupeshv29)
 
