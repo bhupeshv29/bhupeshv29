@@ -41,7 +41,7 @@ Building production-grade software across the frontend, backend, infrastructure,
 
 <p align="center">
 
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupeshv29&theme=tokyonight" />
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhupeshv29&theme=tokyonight" />
 
 </p>
 
