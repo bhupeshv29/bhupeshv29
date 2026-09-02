@@ -14,6 +14,7 @@ Building production-grade software across the frontend, backend, infrastructure,
 | **[BetterUptime](https://github.com/bhupeshv29/better-uptime)** | Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Docker | Website monitoring platform with scheduled health checks, incident tracking, status dashboards. |
 | **[Droply](https://github.com/bhupeshv29/droply)** | Next.js · TypeScript · Drizzle ORM · Clerk · ImageKit | Secure cloud file storage platform with authentication, media uploads, file organization, starring, trash management, and responsive dashboards. |
 | **[Sketchly](https://github.com/bhupeshv29/sketchly2.git)** | Next.js · TypeScript · WebSockets · Tailwind CSS | Collaborative whiteboard supporting multi-user drawing with real-time synchronization, customizable tools, and responsive UI. |
+| **[Live Support Chat System](https://github.com/bhupeshv29/LiveSupportChatSystemRealTimeChat.git)** | React · TypeScript · WebSockets · Express · PostgreSQL | Role-based live support desk: candidates open tickets, supervisors assign agents from their team, agents chat in real time and close threads, and admins manage org structure and analytics. |
 
 ---
 
