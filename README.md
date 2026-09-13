@@ -34,7 +34,7 @@ Building production-grade software across the frontend, backend, infrastructure,
 
 <p align="center">
 
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhupeshv29&show_icons=true&theme=tokyonight" />
 
   <img width="49%" src="https://streak-stats.demolab.com?user=bhupeshv29&theme=tokyonight" />
 
