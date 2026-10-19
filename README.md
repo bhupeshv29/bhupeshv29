@@ -20,7 +20,7 @@ Building production-grade software across the frontend, backend, infrastructure,
 ---
 
 
-	React Express, Postgres, OpenAI-compatible API,Sandbox	E2B 
+<!--	React Express, Postgres, OpenAI-compatible API,Sandbox	E2B -->
 
 
 ## Core Technologies
